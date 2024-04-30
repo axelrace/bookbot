@@ -1,2 +1,2 @@
 # bookbot
-for  boot.dev
+for boot.dev
